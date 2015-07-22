@@ -12,11 +12,15 @@ body {
 
 .business-header {
     height: 400px;
-    background: url('http://placehold.it/1920x400') center center no-repeat scroll;
+    background: url("../img/hero.jpg") center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.logo {
+  background: url("../img/logo.png") center center no-repeat scroll;
 }
 
 /* Customize the text color and shadow color and to optimize text legibility. */
@@ -28,6 +32,10 @@ body {
 
 .img-center {
     margin: 0 auto;
+}
+
+.img-responsive {
+  padding: 5px;
 }
 
 footer {
