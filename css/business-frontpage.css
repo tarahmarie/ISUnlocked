@@ -7,7 +7,6 @@
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     background: url("../img/tile.png");
-    color: white;
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
@@ -58,6 +57,10 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+p {
+  color: white;
 }
 
 footer {
