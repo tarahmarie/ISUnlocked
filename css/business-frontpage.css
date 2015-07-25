@@ -27,6 +27,7 @@ body {
 .stock-images {
   border-style: solid;
   border-width: 15px;
+  border-color: white;
 }
 
 /* Customize the text color and shadow color and to optimize text legibility. */
