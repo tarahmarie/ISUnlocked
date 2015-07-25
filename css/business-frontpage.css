@@ -28,12 +28,6 @@ h2 {
   color: #550000;
 }
 
-.stock-images {
-  border-style: solid;
-  border-width: 5px;
-  border-color: #550000;
-}
-
 /* Customize the text color and shadow color and to optimize text legibility. */
 
 .tagline {
@@ -45,8 +39,8 @@ h2 {
     margin: 0 auto;
 }
 
-.img-responsive {
-  padding: 5px;
+.stock-images {
+  margin: 5px;
 }
 
 /* Responsive iFrame */
