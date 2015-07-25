@@ -24,6 +24,10 @@ body {
   background: url("../img/logo.png") center center no-repeat scroll;
 }
 
+.h1 {
+  color: #550000;
+}
+
 .stock-images {
   border-style: solid;
   border-width: 15px;
