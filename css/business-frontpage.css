@@ -91,3 +91,8 @@ footer {
   display: -ms-flexbox;
   display:         flex;
 }
+
+.content-box {
+  border-radius: 5px;
+  background: rgba(50, 1, 1, 0.8); /* 50% transparent */
+}
